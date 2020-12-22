@@ -7,3 +7,7 @@ nchainz/
 .idea/
 .csv
 chain-code/
+
+# stargate-6 config
+configs/stargate-6/stargate-6.json
+configs/stargate-6/key_seed.json

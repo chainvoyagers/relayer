@@ -1,0 +1,9 @@
+{
+    "key":"testkey",
+    "chain-id":"stargate-6",
+    "rpc-addr":"http://220.76.21.184:20002",
+    "account-prefix":"cosmos",
+    "gas-adjustment":1.5,
+    "gas-prices":"0.025umuon",
+    "trusting-period":"50m"
+}
